@@ -1,7 +1,4 @@
-# CS4386-Compiler-Design-Project
-
-Nilay Jasapara
-CS 4386.001
+# CSE-4321-Software Testing & Maintenance
 
 Full Semester Long Project to Design a Basic Compiler in **Java** with JFlex and Cup
 
